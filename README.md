@@ -44,5 +44,6 @@ O dashboard foi projetado para responder a perguntas críticas, utilizando os se
 
 ## Visualização
 
-<img width="1155" height="650" alt="image" src="https://github.com/user-attachments/assets/013590db-a5d5-4ebc-a81b-93bd3f442b5c" />
+<img width="1150" height="656" alt="image" src="https://github.com/user-attachments/assets/f39c336d-89ab-45fd-b937-f9a942d5ba6f" />
+
 
