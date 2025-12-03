@@ -46,4 +46,3 @@ O dashboard foi projetado para responder a perguntas críticas, utilizando os se
 
 <img width="1155" height="650" alt="image" src="https://github.com/user-attachments/assets/013590db-a5d5-4ebc-a81b-93bd3f442b5c" />
 
-Download do arquivo: https://github.com/lethicia-lima/powerbi-dashboard-gestao-os/raw/refs/heads/main/DASHBOARD%20OS%20CADASTRO%20-%20JURIDICO.pbix
