@@ -41,7 +41,7 @@ O dashboard foi projetado para responder a perguntas críticas, utilizando os se
 
 * **Power Query (Linguagem M):** Utilizado para a etapa de **ETL (Extração, Transformação e Carga)**, incluindo a criação de **Colunas Condicionais** para classificação de status e **Mesclagem de Consultas (Merge Queries)** para enriquecimento de dados de múltiplas fontes.
 * **Modelagem:** Implementação de um esquema dimensional otimizado, garantindo relacionamentos 1:N entre tabelas de Fato (OS) e tabelas de Dimensão (Tipos de Serviço, Colaboradores).
-* 
+  
 ## 📒🎲 Dicionário de Dados
 <img width="1076" height="203" alt="image" src="https://github.com/user-attachments/assets/7668355d-9ec3-4520-9ef2-53f2aea18b76" />
 
