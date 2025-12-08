@@ -48,4 +48,4 @@ O dashboard foi projetado para responder a perguntas críticas, utilizando os se
 
 **➡️ [Acesse o Painel Interativo AQUI](DASHBOARD.pbix)**
 
-**➡️ [Acesse o Dicionário de Dados completo AQUI](dicionariodedados.xlsx)**
+**➡️ [Acesse o Dicionário de Dados completo AQUI](dicionariodedados.xlsx.xlsx)**
