@@ -46,5 +46,6 @@ O dashboard foi projetado para responder a perguntas críticas, utilizando os se
 
 <img width="1150" height="656" alt="image" src="https://github.com/user-attachments/assets/f39c336d-89ab-45fd-b937-f9a942d5ba6f" />
 
+**➡️ [Acesse o Painel Interativo AQUI](DASHBOARD.pbix)**
 
 **➡️ [Acesse o Dicionário de Dados completo AQUI](dicionariodedados.xlsx)**
